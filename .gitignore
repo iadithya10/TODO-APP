@@ -1,17 +1,17 @@
-# Virtual environment folder
+# Virtual environment
 venv/
 
-# Python bytecode files
+# Python cache files
 __pycache__/
 *.py[cod]
 
-# SQLite database (optional, if you want to keep your local DB out)
+# SQLite DB if you want to keep local DB out
 tasks.db
 
-# IDE/editor config files
+# IDE/editor files
 .vscode/
 .idea/
 
-# OS generated files
+# OS stuff
 .DS_Store
 Thumbs.db
