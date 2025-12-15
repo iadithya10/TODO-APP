@@ -4,8 +4,8 @@ The ToDo Application is a simple yet powerful web-based task management system b
 
 Technology Stack
 Backend: Flask - A lightweight WSGI web application framework in Python.
-Database: SQLite (or any preferred relational database) for storing tasks.
-Frontend: HTML and CSS for creating a user-friendly interface.
+Database: SQLite (or any preferred relational database) for storing tasks
+Frontend: HTML and CSS for creating a user-friendly interface
 
 
 Conclusion
