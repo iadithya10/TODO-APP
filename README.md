@@ -1,4 +1,4 @@
-Overview
+Overview:
 
 The ToDo Application is a simple yet powerful web-based task management system built using the Flask framework. This project aims to help users efficiently manage their daily tasks with the ability to add, update, and delete tasks along with their associated dates.
 
